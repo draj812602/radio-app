@@ -27,12 +27,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 I have created this app using vue.js, I have fullfill the requirement, The bonus part requires user login that also
 I can do but the backend services is required for that and the time aloted for the complition of this task was not enough, So please considered this, I have worked very hard on this and completed it in very short time,I could have done it much better but again the time aloted was vey small.
-"# radio-app" 
-"# radio-app" 
-"# radio-app" 
-"# radio-app" 
-"# radio-app" 
-"# radio-app" 
-"# radio-app" 
-"# radio-app" 
-"# radio-app" 
+I have use regex to validate url.
+
